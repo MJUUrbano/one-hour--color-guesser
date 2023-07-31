@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/one-hour--color-guesser/static/css/main.a2150c9c.css",
+    "main.js": "/one-hour--color-guesser/static/js/main.e5a54f60.js",
+    "index.html": "/one-hour--color-guesser/index.html",
+    "main.a2150c9c.css.map": "/one-hour--color-guesser/static/css/main.a2150c9c.css.map",
+    "main.e5a54f60.js.map": "/one-hour--color-guesser/static/js/main.e5a54f60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2150c9c.css",
+    "static/js/main.e5a54f60.js"
+  ]
+}
