@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  background-color: #282c34;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ChooseColor {
+  height: 100px;
+  width: 1200px;
+  background-color: wheat;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.ColorsList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  column-gap: 10px;
+}
+
+.Color {
+  height: 500px;
+  width: 500px;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: aliceblue;
+}
+
+.Score {
+  height: 100px;
+  width: 1200px;
+  border-radius: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
